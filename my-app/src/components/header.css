@@ -1,0 +1,23 @@
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover {
+    color: rgb(111, 0, 255);
+    text-decoration: underline;
+}
+
+ul li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+/* ul {
+    display: flex;
+} */
+
+.banner {
+    text-align: center;
+    margin-top: 20px;
+}
